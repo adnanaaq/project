@@ -1,0 +1,23 @@
+stylesheet.cssh1 { background-color:cyan; }
+#my_h1_tag {
+    color:green;
+}
+body { bgcolor:"cyan"}
+p { color:red; }
+#my_p_tag {
+    color:red;
+}
+.my_p_class {
+  background-color:pink;
+}
+@media all and (max-width:600px) {
+  body {
+    color:blue;
+  }
+}
+body{
+  text-align: center;
+}
+ol li {
+  color: gray;
+}
